@@ -4184,12 +4184,6 @@ li.issue-fix-item button:not(.actionable) .fix-icon {
     width: 100%;
 }
 
-.ideditor .help-pane .nav::after {
-    content: '';
-    display: table;
-    clear: both;
-}
-
 .help-pane .nav a {
     flex: 0 0 50%;
     text-align: center;
